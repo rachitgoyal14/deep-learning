@@ -1,3 +1,7 @@
 venv
 .env
 campusXnotes.pdf
+notes.pdf
+notes
+__pycache__/
+.ipynb_checkpoints
