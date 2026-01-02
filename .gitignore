@@ -5,3 +5,4 @@ notes.pdf
 notes
 __pycache__/
 .ipynb_checkpoints
+.DS_store
