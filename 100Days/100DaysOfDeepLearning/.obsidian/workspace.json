@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basics/3.  How to train a Perceptron?.md",
+                "file": "basics/4.  Loss Functions in Perceptron.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.  How to train a Perceptron?"
+              "title": "4.  Loss Functions in Perceptron"
             }
           }
         ],
@@ -198,25 +198,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "877a008a149b5f22",
+  "active": "9f8ca1312a922d65",
   "lastOpenFiles": [
-    "images/Pasted image 20260116211814.png",
-    "images/Pasted image 20260116210959.png",
-    "images/Pasted image 20260116210557.png",
-    "images/Pasted image 20260116205941.png",
-    "basics/2. Perceptron.md",
+    "basics/notes.pdf",
+    "images/Pasted image 20260117185748.png",
+    "images/Pasted image 20260117185708.png",
+    "images/Pasted image 20260117185643.png",
+    "images/Pasted image 20260117185524.png",
+    "images/Pasted image 20260117185149.png",
+    "basics/image.png",
+    "images/Pasted image 20260117183910.png",
+    "images/Pasted image 20260117183016.png",
+    "images/Pasted image 20260117182657.png",
+    "images/Pasted image 20260117182540.png",
     "basics/3.  How to train a Perceptron?.md",
+    "basics/4.  Loss Functions in Perceptron.md",
+    "basics/4. Loss Functions in Perceptron",
+    "basics/2. Perceptron.md",
     "basics/1. Types of Neural Networks.md",
     "basics/0. What is Deep Learning.md",
-    "images/Pasted image 20260102152438.png",
-    "images/Pasted image 20260102152319.png",
     "campusXNotes.pdf",
-    "images/Pasted image 20260102151141.png",
-    "images/Pasted image 20260102150253.png",
-    "images/Pasted image 20260102150129.png",
-    "Pasted image 20260102145646.png",
     "images",
-    "images/Pasted image 20260102143048.png",
     "Welcome.md",
     "basics"
   ]
