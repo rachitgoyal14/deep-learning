@@ -198,11 +198,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "9f8ca1312a922d65",
+  "active": "877a008a149b5f22",
   "lastOpenFiles": [
+    "images/Pasted image 20260116211814.png",
+    "images/Pasted image 20260116210959.png",
+    "images/Pasted image 20260116210557.png",
+    "images/Pasted image 20260116205941.png",
     "basics/2. Perceptron.md",
-    "basics/1. Types of Neural Networks.md",
     "basics/3.  How to train a Perceptron?.md",
+    "basics/1. Types of Neural Networks.md",
     "basics/0. What is Deep Learning.md",
     "images/Pasted image 20260102152438.png",
     "images/Pasted image 20260102152319.png",
@@ -213,7 +217,6 @@
     "Pasted image 20260102145646.png",
     "images",
     "images/Pasted image 20260102143048.png",
-    "basics/mlvsdl.jpeg",
     "Welcome.md",
     "basics"
   ]
