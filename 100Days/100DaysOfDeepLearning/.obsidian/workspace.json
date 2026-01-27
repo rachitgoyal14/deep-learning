@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "9.  Loss Functions in Deep Learning"
             }
+          },
+          {
+            "id": "6050f3bcbd124bd7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "notes.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "notes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,13 +196,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "877a008a149b5f22",
+  "active": "6050f3bcbd124bd7",
   "lastOpenFiles": [
+    "backpropagation/1.  What is Backpropagation?.md",
+    "basics/9.  Loss Functions in Deep Learning.md",
     "images/Pasted image 20260122150545.png",
     "images/Pasted image 20260122144419.png",
     "images/Pasted image 20260122144010.png",
     "basics/8.  Forward Propagation.md",
-    "basics/9.  Loss Functions in Deep Learning.md",
     "basics/6.  Multi-Layer Perceptron (MLP).md",
     "backpropagation/Customer Churn Prediction using ANN.md",
     "basics/5.  Why Single-Layer Perceptrons Fail.md",
@@ -203,10 +217,9 @@
     "images/Pasted image 20260119024816.png",
     "basics/7.  MLP Notation.md",
     "images/Pasted image 20260119023755.png",
-    "images/Pasted image 20260119023617.png",
     "basics/4.  Loss Functions in Perceptron.md",
     "5.  Problem with Perceptron.md",
-    "basics/notes.pdf",
+    "notes.pdf",
     "basics/3.  How to train a Perceptron?.md",
     "basics/4. Loss Functions in Perceptron",
     "basics/1. Types of Neural Networks.md",
