@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "27ade2a792ab1d7e",
+        "id": "404e3d6b62445e27",
         "type": "tabs",
         "children": [
           {
-            "id": "71034c489a9f29ad",
+            "id": "a73499eece559ac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basics/9.  Loss Functions in Deep Learning.md",
+                "file": "backpropagation/1.  What is Backpropagation?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.  Loss Functions in Deep Learning"
-            }
-          },
-          {
-            "id": "6050f3bcbd124bd7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "notes.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "notes"
+              "title": "1.  What is Backpropagation?"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,10 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "6050f3bcbd124bd7",
+  "active": "a73499eece559ac1",
   "lastOpenFiles": [
-    "backpropagation/1.  What is Backpropagation?.md",
+    "backpropagation/2.  The HOW of Deep Learning.md",
     "basics/9.  Loss Functions in Deep Learning.md",
+    "backpropagation/1.  What is Backpropagation?.md",
+    "images/Pasted image 20260128055952.png",
+    "images/Pasted image 20260128055913.png",
+    "images/Pasted image 20260128054433.png",
+    "images/Pasted image 20260128045701.png",
+    "notes.pdf",
     "images/Pasted image 20260122150545.png",
     "images/Pasted image 20260122144419.png",
     "images/Pasted image 20260122144010.png",
@@ -212,14 +205,9 @@
     "images/Pasted image 20260119031738.png",
     "images/Pasted image 20260119031725.png",
     "images/Pasted image 20260119031421.png",
-    "images/Pasted image 20260119031418.png",
-    "images/Pasted image 20260119031240.png",
-    "images/Pasted image 20260119024816.png",
     "basics/7.  MLP Notation.md",
-    "images/Pasted image 20260119023755.png",
     "basics/4.  Loss Functions in Perceptron.md",
     "5.  Problem with Perceptron.md",
-    "notes.pdf",
     "basics/3.  How to train a Perceptron?.md",
     "basics/4. Loss Functions in Perceptron",
     "basics/1. Types of Neural Networks.md",
