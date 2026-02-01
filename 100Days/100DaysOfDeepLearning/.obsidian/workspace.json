@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "404e3d6b62445e27",
+        "id": "9d3ae404ea0d432e",
         "type": "tabs",
         "children": [
           {
-            "id": "a73499eece559ac1",
+            "id": "aaa3625c2f9021cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backpropagation/1.  What is Backpropagation?.md",
+                "file": "backpropagation/3.  The WHY? of Deep Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.  What is Backpropagation?"
+              "title": "3.  The WHY? of Deep Learning"
             }
           }
         ]
@@ -183,16 +183,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "a73499eece559ac1",
+  "active": "aaa3625c2f9021cd",
   "lastOpenFiles": [
-    "backpropagation/2.  The HOW of Deep Learning.md",
-    "basics/9.  Loss Functions in Deep Learning.md",
     "backpropagation/1.  What is Backpropagation?.md",
+    "backpropagation/2.  The HOW? of Deep Learning.md",
+    "backpropagation/3.  The WHY? of Deep Learning.md",
+    "Untitled.md",
+    "images/Pasted image 20260131184545.png",
+    "images/Pasted image 20260131181740.png",
+    "images/Pasted image 20260131174931.png",
+    "random.md",
+    "notes.pdf",
+    "basics/9.  Loss Functions in Deep Learning.md",
     "images/Pasted image 20260128055952.png",
     "images/Pasted image 20260128055913.png",
     "images/Pasted image 20260128054433.png",
     "images/Pasted image 20260128045701.png",
-    "notes.pdf",
     "images/Pasted image 20260122150545.png",
     "images/Pasted image 20260122144419.png",
     "images/Pasted image 20260122144010.png",
@@ -202,9 +208,6 @@
     "basics/5.  Why Single-Layer Perceptrons Fail.md",
     "backpropagation",
     "basics/2. Perceptron.md",
-    "images/Pasted image 20260119031738.png",
-    "images/Pasted image 20260119031725.png",
-    "images/Pasted image 20260119031421.png",
     "basics/7.  MLP Notation.md",
     "basics/4.  Loss Functions in Perceptron.md",
     "5.  Problem with Perceptron.md",
