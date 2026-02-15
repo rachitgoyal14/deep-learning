@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "activation_functions/3. ReLu Activation Function.md",
+                "file": "backpropagation/2.  The HOW? of Deep Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. ReLu Activation Function"
+              "title": "2.  The HOW? of Deep Learning"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "8e2c08d7fe31fe9f",
   "lastOpenFiles": [
-    "activation_functions/2. Tanh Activation Function.md",
+    "backpropagation/1.  What is Backpropagation?.md",
     "activation_functions/3. ReLu Activation Function.md",
+    "activation_functions/2. Tanh Activation Function.md",
     "activation_functions/1. Sigmoid Activation Function.md",
     "images/Pasted image 20260212014458.png",
     "images/Pasted image 20260212005134.png",
@@ -217,7 +218,6 @@
     "Memoization.md",
     "backpropagation/2.  The HOW? of Deep Learning.md",
     "backpropagation/3.  The WHY? of Deep Learning.md",
-    "backpropagation/1.  What is Backpropagation?.md",
     "random.md",
     "basics/9.  Loss Functions in Deep Learning.md",
     "basics/8.  Forward Propagation.md",
