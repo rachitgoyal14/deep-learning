@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backpropagation/2.  The HOW? of Deep Learning.md",
+                "file": "0. What is Deep Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.  The HOW? of Deep Learning"
+              "title": "0. What is Deep Learning"
             }
           }
         ]
@@ -185,6 +185,10 @@
   },
   "active": "8e2c08d7fe31fe9f",
   "lastOpenFiles": [
+    "What is Deep Learning?.md",
+    "0. What is Deep Learning.md",
+    "notes.pdf",
+    "backpropagation/2.  The HOW? of Deep Learning.md",
     "backpropagation/1.  What is Backpropagation?.md",
     "activation_functions/3. ReLu Activation Function.md",
     "activation_functions/2. Tanh Activation Function.md",
@@ -206,8 +210,6 @@
     "images/Pasted image 20260209100731.png",
     "images/Pasted image 20260209100717.png",
     "images/Pasted image 20260209100704.png",
-    "notes.pdf",
-    "basics/0. What is Deep Learning.md",
     "improve_neural_networks/0. How to improve a Neural Network ?.md",
     "improve_neural_networks/1. Early Stopping.md",
     "improve_neural_networks",
@@ -216,7 +218,6 @@
     "gradient_descent",
     "backpropagation/4.  Two Hidden Layers & Memoization.md",
     "Memoization.md",
-    "backpropagation/2.  The HOW? of Deep Learning.md",
     "backpropagation/3.  The WHY? of Deep Learning.md",
     "random.md",
     "basics/9.  Loss Functions in Deep Learning.md",
