@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d3ae404ea0d432e",
+        "id": "0a28b1e41ba2e93c",
         "type": "tabs",
         "children": [
           {
-            "id": "8e2c08d7fe31fe9f",
+            "id": "3bf2f76bb0b67de6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basics/Untitled.md",
+                "file": "0. What is Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for 0. What is Deep Learning"
             }
           },
           {
@@ -183,10 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "8e2c08d7fe31fe9f",
+  "active": "3bf2f76bb0b67de6",
   "lastOpenFiles": [
-    "What is Deep Learning?.md",
+    "fix.css",
+    "Untitled.base",
     "0. What is Deep Learning.md",
+    "What is Deep Learning?.md",
     "notes.pdf",
     "backpropagation/2.  The HOW? of Deep Learning.md",
     "backpropagation/1.  What is Backpropagation?.md",
@@ -226,10 +228,8 @@
     "backpropagation/Customer Churn Prediction using ANN.md",
     "basics/5.  Why Single-Layer Perceptrons Fail.md",
     "backpropagation",
-    "basics/2. Perceptron.md",
     "basics/4. Loss Functions in Perceptron",
     "campusXNotes.pdf",
-    "images",
-    "basics"
+    "images"
   ]
 }
