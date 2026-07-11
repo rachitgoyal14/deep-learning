@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. What is Deep Learning.md",
+                "file": "1. Types of Neural Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. What is Deep Learning"
+              "title": "1. Types of Neural Networks"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. What is Deep Learning.md",
+                "file": "1. Types of Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0. What is Deep Learning"
+              "title": "Backlinks for 1. Types of Neural Networks"
             }
           },
           {
@@ -185,11 +185,13 @@
   },
   "active": "3bf2f76bb0b67de6",
   "lastOpenFiles": [
+    "2. Perceptron.md",
+    "notes.pdf",
+    "1. Types of Neural Networks.md",
+    "0. What is Deep Learning.md",
     "fix.css",
     "Untitled.base",
-    "0. What is Deep Learning.md",
     "What is Deep Learning?.md",
-    "notes.pdf",
     "backpropagation/2.  The HOW? of Deep Learning.md",
     "backpropagation/1.  What is Backpropagation?.md",
     "activation_functions/3. ReLu Activation Function.md",
@@ -226,10 +228,8 @@
     "basics/8.  Forward Propagation.md",
     "basics/6.  Multi-Layer Perceptron (MLP).md",
     "backpropagation/Customer Churn Prediction using ANN.md",
-    "basics/5.  Why Single-Layer Perceptrons Fail.md",
     "backpropagation",
     "basics/4. Loss Functions in Perceptron",
-    "campusXNotes.pdf",
-    "images"
+    "campusXNotes.pdf"
   ]
 }
