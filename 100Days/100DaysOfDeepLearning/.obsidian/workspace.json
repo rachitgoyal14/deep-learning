@@ -11,14 +11,12 @@
             "id": "3bf2f76bb0b67de6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "2. Perceptron.md",
-                "mode": "source",
-                "source": false
+                "file": "notes.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2. Perceptron"
+              "icon": "lucide-file-text",
+              "title": "notes"
             }
           }
         ]
@@ -185,8 +183,9 @@
   },
   "active": "3bf2f76bb0b67de6",
   "lastOpenFiles": [
-    "1. Types of Neural Networks.md",
+    "3.  How to train a Perceptron?.md",
     "2. Perceptron.md",
+    "1. Types of Neural Networks.md",
     "notes.pdf",
     "0. What is Deep Learning.md",
     "fix.css",
@@ -227,7 +226,6 @@
     "basics/9.  Loss Functions in Deep Learning.md",
     "basics/8.  Forward Propagation.md",
     "basics/6.  Multi-Layer Perceptron (MLP).md",
-    "backpropagation/Customer Churn Prediction using ANN.md",
     "backpropagation",
     "basics/4. Loss Functions in Perceptron",
     "campusXNotes.pdf"
