@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basics/4.  Loss Functions in Perceptron.md",
+                "file": "4.  Loss Functions in Perceptron.md",
                 "mode": "source",
                 "source": false
               },
@@ -186,6 +186,7 @@
   "active": "3bf2f76bb0b67de6",
   "lastOpenFiles": [
     "3.  How to train a Perceptron?.md",
+    "4.  Loss Functions in Perceptron.md",
     "notes.pdf",
     "2. Perceptron.md",
     "1. Types of Neural Networks.md",
