@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.  Loss Functions in Deep Learning.md",
+                "file": "10.  What is Backpropagation?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.  Loss Functions in Deep Learning"
+              "title": "10.  What is Backpropagation?"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "3bf2f76bb0b67de6",
   "lastOpenFiles": [
+    "9.  Loss Functions in Deep Learning.md",
     "8.  Forward Propagation.md",
     "7.  MLP Notation.md",
     "6.  Multi-Layer Perceptron (MLP).md",
@@ -199,7 +200,7 @@
     "Untitled.base",
     "What is Deep Learning?.md",
     "backpropagation/2.  The HOW? of Deep Learning.md",
-    "backpropagation/1.  What is Backpropagation?.md",
+    "10.  What is Backpropagation?.md",
     "activation_functions/3. ReLu Activation Function.md",
     "activation_functions/2. Tanh Activation Function.md",
     "activation_functions/1. Sigmoid Activation Function.md",
@@ -227,7 +228,6 @@
     "gradient_descent/1.  Gradient Descent.md",
     "gradient_descent",
     "backpropagation/4.  Two Hidden Layers & Memoization.md",
-    "Memoization.md",
     "backpropagation",
     "basics/4. Loss Functions in Perceptron",
     "campusXNotes.pdf"
